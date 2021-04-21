@@ -2,3 +2,6 @@
 /service-common/target/
 /service-product/target/
 /service-search/target/
+/.idea/
+
+/yeasheng-kafka-es.iml
