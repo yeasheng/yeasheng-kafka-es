@@ -1,0 +1,4 @@
+# Project exclude paths
+/service-common/target/
+/service-product/target/
+/service-search/target/
